@@ -1,0 +1,1022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pbSocialNetworks 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-21 00:51+0100\n"
+"PO-Revision-Date: 2013-02-21 00:54+0100\n"
+"Last-Translator: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language-Team: Pascal Bajorat <pascal@pascal-bajorat.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../pbOptions.php:14
+msgid "pbSocialNetworks › General"
+msgstr "pbSocialNetworks › Allgemein"
+
+#: ../pbOptions.php:36
+msgid "Activate SocialNetworks"
+msgstr "SocialNetworks Plugin aktivieren"
+
+#: ../pbOptions.php:45
+msgid "This is the general setting to disable or enable pbSocialNetworks"
+msgstr ""
+"Dies ist die Haupteinstellung um pbSocialNetworks ein- oder auszuschalten"
+
+#: ../pbOptions.php:51
+msgid "Activate Statics"
+msgstr "Statistiken aktivieren"
+
+#: ../pbOptions.php:60
+msgid ""
+"Here you can enable the static system to track your social network traffic"
+msgstr ""
+"Hier kannst du die Statistiken aktivieren um deinen Social Network Traffic "
+"zu tracken"
+
+#: ../pbOptions.php:66
+msgid "Include pbSocialNetworks CSS Styles"
+msgstr "pbSocialNetworks CSS Stile einbinden"
+
+#: ../pbOptions.php:75
+msgid ""
+"This will include the default CSS for the Social Buttons, if you disable it "
+"you need to write your own styles"
+msgstr ""
+"Diese Option bindet die CSS Datei mit standard Stilen ein, wenn sie "
+"deaktiviert wird, musst du eigene schreiben"
+
+#: ../pbOptions.php:81
+msgid "Show Buttons on Article Pages"
+msgstr "Social Buttons auf Artikel-Seiten anzeigen"
+
+#: ../pbOptions.php:90
+msgid ""
+"Activate this checkbox to automatically include the Social Buttons on "
+"Article Pages"
+msgstr ""
+"Aktiviere diese Checkbox um die Social Buttons automatisch auf Artikel-"
+"Seiten einzublenden"
+
+#: ../pbOptions.php:96
+msgid "Show Buttons on Pages"
+msgstr "Social Buttons auf Seiten (Pages) anzeigen"
+
+#: ../pbOptions.php:105
+msgid ""
+"Activate this checkbox to automatically include the Social Buttons on Pages"
+msgstr ""
+"Aktiviere diese Checkbox um die Social Buttons automatisch auf Seiten "
+"einzublenden"
+
+#: ../pbOptions.php:111
+msgid "Button Position"
+msgstr "Button Position"
+
+#: ../pbOptions.php:120
+msgid "Display the Buttons below or above the content"
+msgstr ""
+"Buttons können über oder unter dem Inhalt der Seiten / Artikel eingeblendet "
+"werden"
+
+#: ../pbOptions.php:122
+msgid "below the content"
+msgstr "unter den Inhalten"
+
+#: ../pbOptions.php:123
+msgid "above the content"
+msgstr "über den Inhalten"
+
+#: ../pbOptions.php:137
+msgid "pbSocialNetworks › Facebook"
+msgstr "pbSocialNetworks › Facebook"
+
+#: ../pbOptions.php:144 ../pbOptions.php:153
+msgid "Activate Facebook Like Button"
+msgstr "Facebook gefällt mir Button aktivieren"
+
+#: ../pbOptions.php:159
+msgid "Plugin Language"
+msgstr "Plugin Sprache"
+
+#: ../pbOptions.php:168
+msgid ""
+"Language Code of the Facebook Plugin e.g. <code>en_US</code> for more "
+"details have a look <a href=\"https://developers.facebook.com/docs/"
+"internationalization/\" target=\"_blank\">here</a>"
+msgstr ""
+"Sprach-Code des Facebook Plugins z.B. <code>de_DE</code>, für weitere "
+"Informationen besuche diese <a href=\"https://developers.facebook.com/docs/"
+"internationalization/\" target=\"_blank\">Seite</a>"
+
+#: ../pbOptions.php:174 ../pbOptions.php:836
+msgid "URL to Like"
+msgstr "Gefällt mir URL"
+
+#: ../pbOptions.php:183 ../pbOptions.php:845
+msgid ""
+"Leave blank to use the permalink of each article (<strong>recommended</"
+"strong>) or type a specific url to like"
+msgstr ""
+"Lass dieses Feld leer um automatisch die aktuelle URL einer Seite / Artikel "
+"zu liken (<strong>empfohlen</strong>) oder gib eine feste ein"
+
+#: ../pbOptions.php:189
+msgid "Send Button"
+msgstr "Senden Button"
+
+#: ../pbOptions.php:198
+msgid "Activate Facebook Send Button"
+msgstr "Aktiviert den Facebook Senden Button"
+
+#: ../pbOptions.php:204 ../pbWidgets.php:185
+msgid "Layout Style"
+msgstr "Button Layout"
+
+#: ../pbOptions.php:213
+msgid "Layout Style of the Like Button"
+msgstr "Layout des gefällt mir Buttons"
+
+#: ../pbOptions.php:215 ../pbOptions.php:303
+msgid "standard"
+msgstr "Standard"
+
+#: ../pbOptions.php:216
+msgid "Button Count"
+msgstr "Button mit Zähler"
+
+#: ../pbOptions.php:217
+msgid "Box Count"
+msgstr "Box mit Zähler"
+
+#: ../pbOptions.php:224 ../pbOptions.php:806
+msgid "Width"
+msgstr "Weite"
+
+#: ../pbOptions.php:233
+msgid "width of the plugin, in pixels"
+msgstr "Weite des Plugins in Pixeln"
+
+#: ../pbOptions.php:239 ../pbWidgets.php:42 ../pbWidgets.php:191
+msgid "Show Faces"
+msgstr "Gesichter anzeigen"
+
+#: ../pbOptions.php:248
+msgid "Show Profile Pictures below the Button"
+msgstr "Zeigt die Profilbilder unter dem gefällt mir Button an"
+
+#: ../pbOptions.php:254
+msgid "Verb to display"
+msgstr "Anzuzeigendes Verb"
+
+#: ../pbOptions.php:263 ../pbOptions.php:282
+msgid "The verb to display in the button"
+msgstr "Das Verb, dass in dem Button angezeigt wird"
+
+#: ../pbOptions.php:265
+msgid "like"
+msgstr "gefällt mir"
+
+#: ../pbOptions.php:266
+msgid "recommend"
+msgstr "empfehlen"
+
+#: ../pbOptions.php:273 ../pbWidgets.php:36 ../pbWidgets.php:92
+#: ../pbWidgets.php:143 ../pbWidgets.php:188
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: ../pbOptions.php:284
+msgid "light"
+msgstr "hell"
+
+#: ../pbOptions.php:285
+msgid "dark"
+msgstr "dunkel"
+
+#: ../pbOptions.php:292
+msgid "Font"
+msgstr "Schriftart"
+
+#: ../pbOptions.php:301
+msgid "The font of the plugin"
+msgstr "Schriftart des Plugins"
+
+#: ../pbOptions.php:304
+msgid "arial"
+msgstr "arial"
+
+#: ../pbOptions.php:305
+msgid "lucida grande"
+msgstr "lucida grande"
+
+#: ../pbOptions.php:306
+msgid "segoe ui"
+msgstr "segoe ui"
+
+#: ../pbOptions.php:307
+msgid "tahoma"
+msgstr "tahoma"
+
+#: ../pbOptions.php:308
+msgid "trebuchet ms"
+msgstr "trebuchet ms"
+
+#: ../pbOptions.php:309
+msgid "verdana"
+msgstr "verdana"
+
+#: ../pbOptions.php:323
+msgid "pbSocialNetworks › Open Graph Protocol"
+msgstr "pbSocialNetworks › Open Graph Protocol"
+
+#: ../pbOptions.php:330
+msgid "Activate Open Graph protocol"
+msgstr "Open Graph protocol aktivieren"
+
+#: ../pbOptions.php:339
+msgid ""
+"Learn more about the <a href=\"http://ogp.me/\" target=\"_blank\">Open Graph "
+"protocol</a> at Facebooks <a href=\"https://developers.facebook.com/docs/"
+"opengraphprotocol/\" target=\"_blank\">Developer Page</a>"
+msgstr ""
+"Erfahre mehr über das <a href=\"http://ogp.me/\" target=\"_blank\">Open "
+"Graph protocol</a> auf den Facebook <a href=\"https://developers.facebook."
+"com/docs/opengraphprotocol/\" target=\"_blank\">Entwickler Seiten</a>"
+
+#: ../pbOptions.php:345
+msgid "AppId"
+msgstr "AppId"
+
+#: ../pbOptions.php:354
+msgid "Your Facebook AppId"
+msgstr "Deine Facebook AppId"
+
+#: ../pbOptions.php:360
+msgid "AdminId"
+msgstr "AdminId"
+
+#: ../pbOptions.php:369
+msgid "Your Facebook Profile ID"
+msgstr "Deine Facebook Admin ID"
+
+#: ../pbOptions.php:375
+msgid "Sitename"
+msgstr "Seitenname"
+
+#: ../pbOptions.php:390
+msgid "Site-Type"
+msgstr "Seiten-Typ"
+
+#: ../pbOptions.php:399 ../pbOptions.php:414 ../pbOptions.php:429
+#: ../pbSocialNetworks.php:351
+msgid ""
+"You find more informations about types <a href=\"https://developers.facebook."
+"com/docs/opengraphprotocol/#types\" target=\"_blank\">here</a>"
+msgstr ""
+"Du findest weitere Informationen über Typen auf <a href=\"https://developers."
+"facebook.com/docs/opengraphprotocol/#types\" target=\"_blank\">dieser Seite</"
+"a>"
+
+#: ../pbOptions.php:405
+msgid "Page-Type"
+msgstr "Seiten-Typ"
+
+#: ../pbOptions.php:420
+msgid "Article-Type"
+msgstr "Artikel-Typ"
+
+#: ../pbOptions.php:435
+msgid "Home Title"
+msgstr "Startseiten Titel"
+
+#: ../pbOptions.php:444
+msgid "Title for your homepage"
+msgstr "Titel für deine Startseite"
+
+#: ../pbOptions.php:450
+msgid "Home Description"
+msgstr "Beschreibung Startseite"
+
+#: ../pbOptions.php:459
+msgid "Description for your homepage"
+msgstr "Beschreibung für deine Startseite"
+
+#: ../pbOptions.php:465 ../pbOptions.php:931 ../pbSocialNetworks.php:375
+msgid "Image"
+msgstr "Bild"
+
+#: ../pbOptions.php:474
+msgid ""
+"This is the default image for the homepage and all pages without article "
+"images"
+msgstr ""
+"Dieses Bild wird als Standard-Bild für die Startseite und alle Seiten / "
+"Artikel ohne Artikelbilder verwendet"
+
+#: ../pbOptions.php:480
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: ../pbOptions.php:489
+msgid "e.g. 37.416343"
+msgstr "z.B. 37.416343"
+
+#: ../pbOptions.php:495
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: ../pbOptions.php:504
+msgid "e.g. -122.153013"
+msgstr "z.B. -122.153013"
+
+#: ../pbOptions.php:510
+msgid "Street"
+msgstr "Straße"
+
+#: ../pbOptions.php:519
+msgid "e.g. 1601 S California Ave"
+msgstr "z.B. 1601 S California Ave"
+
+#: ../pbOptions.php:525
+msgid "Locality"
+msgstr "Ort"
+
+#: ../pbOptions.php:534
+msgid "e.g. Palo Alto"
+msgstr "z.B. Palo Alto"
+
+#: ../pbOptions.php:540
+msgid "Region"
+msgstr "Region"
+
+#: ../pbOptions.php:549
+msgid "e.g. CA"
+msgstr "z.B. CA"
+
+#: ../pbOptions.php:555
+msgid "Postal Code"
+msgstr "Postleitzahl"
+
+#: ../pbOptions.php:564
+msgid "e.g. 94304"
+msgstr "e.g. 94304"
+
+#: ../pbOptions.php:570
+msgid "Country"
+msgstr "Land"
+
+#: ../pbOptions.php:579
+msgid "e.g. USA"
+msgstr "z.B. USA"
+
+#: ../pbOptions.php:585
+msgid "Email"
+msgstr "Email"
+
+#: ../pbOptions.php:594
+msgid "e.g. me@gmail.com"
+msgstr "z.B. me@gmail.com"
+
+#: ../pbOptions.php:600
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../pbOptions.php:609
+msgid "e.g. +1-650-123-4567"
+msgstr "z.B. +1-650-123-4567"
+
+#: ../pbOptions.php:615
+msgid "Fax"
+msgstr "Fax"
+
+#: ../pbOptions.php:624
+msgid "e.g. +1-415-123-4567"
+msgstr "z.B. +1-415-123-4567"
+
+#: ../pbOptions.php:637
+msgid "pbSocialNetworks › Twitter"
+msgstr "pbSocialNetworks › Twitter"
+
+#: ../pbOptions.php:644 ../pbOptions.php:653
+msgid "Activate Twitter Button"
+msgstr "Twitter Button aktivieren"
+
+#: ../pbOptions.php:659
+msgid "Tweet count"
+msgstr "Tweet count"
+
+#: ../pbOptions.php:668
+msgid "Activate to show the Tweet count beside the button"
+msgstr "Aktivieren um den Tweet Zähler neben dem Button anzuzeigen"
+
+#: ../pbOptions.php:674
+msgid "URL to share"
+msgstr "Zu teilende URL"
+
+#: ../pbOptions.php:683
+msgid ""
+"Leave blank to use the permalink of each article (<strong>recommended</"
+"strong>) or type a specific url to share"
+msgstr ""
+"Lass dieses Feld leer um automatisch die aktuelle URL einer Seite / Artikel "
+"zu teilen (<strong>empfohlen</strong>) oder gib eine feste ein"
+
+#: ../pbOptions.php:689
+msgid "Tweet Text to share"
+msgstr "Tweet Text"
+
+#: ../pbOptions.php:698 ../pbOptions.php:925
+msgid ""
+"Leave blank to use the title of each article (<strong>recommended</strong>) "
+"or type a specific text to share"
+msgstr ""
+"Leer lassen um automatisch den Titel jedes Artikels (Seite) zu verwenden "
+"(<strong>empfohlen</strong>) oder gib einen festen Text ein"
+
+#: ../pbOptions.php:704
+msgid "Via"
+msgstr "Via"
+
+#: ../pbOptions.php:713
+msgid ""
+"Your Twitter Account for the <code>via @YourAccount</code> Part - without @"
+msgstr ""
+"Dein Twitter Account für die <code>via @YourAccount</code> Angabe, ohne @-"
+"Zeichen"
+
+#: ../pbOptions.php:719 ../pbOptions.php:821
+msgid "Language"
+msgstr "Sprache"
+
+#: ../pbOptions.php:728
+msgid ""
+"Twitter detects the client language automatically, if you don't like this "
+"enter a fixed language code like <code>en</code>"
+msgstr ""
+"Twitter erkennt die Sprache automatisch, um einen festen Sprach-Code zu "
+"verwenden, kann dieser hier eingetragen werden z.B.: <code>de</code>"
+
+#: ../pbOptions.php:741
+msgid "pbSocialNetworks › Google+"
+msgstr "pbSocialNetworks › Google+"
+
+#: ../pbOptions.php:748 ../pbOptions.php:757
+msgid "Activate Google+ Button"
+msgstr "Google+ Button aktivieren"
+
+#: ../pbOptions.php:763
+msgid "Button Size"
+msgstr "Button Größe"
+
+#: ../pbOptions.php:772 ../pbOptions.php:794
+msgid "select the size of your g+ Button"
+msgstr "Wähle die Größe deines g+ Buttons"
+
+#: ../pbOptions.php:774
+msgid "small (15px)"
+msgstr "klein (15px)"
+
+#: ../pbOptions.php:775
+msgid "medium (20px)"
+msgstr "mittel (20px)"
+
+#: ../pbOptions.php:776
+msgid "standard (24px)"
+msgstr "standard (24px)"
+
+#: ../pbOptions.php:777
+msgid "tall (60px)"
+msgstr "groß (60px)"
+
+#: ../pbOptions.php:785
+msgid "Annotation"
+msgstr "Annotation"
+
+#: ../pbOptions.php:796
+msgid "bubble"
+msgstr "bubble"
+
+#: ../pbOptions.php:797
+msgid "inline"
+msgstr "innen"
+
+#: ../pbOptions.php:798 ../pbOptions.php:893
+msgid "none"
+msgstr "keine"
+
+#: ../pbOptions.php:815
+msgid "width of the g+ Button"
+msgstr "Weite des g+ Buttons"
+
+#: ../pbOptions.php:830
+msgid "language of your g+ Button"
+msgstr "Sprache deines g+ Buttons"
+
+#: ../pbOptions.php:858
+msgid "pbSocialNetworks › Pinterest"
+msgstr "pbSocialNetworks › Pinterest"
+
+#: ../pbOptions.php:865 ../pbOptions.php:874
+msgid "Activate Pin It Button"
+msgstr "Pin It Button aktivieren"
+
+#: ../pbOptions.php:880
+msgid "Count Layout"
+msgstr "Layout"
+
+#: ../pbOptions.php:889
+msgid "select the count layout"
+msgstr "Wähle das Layout des Zählers aus"
+
+#: ../pbOptions.php:891
+msgid "horizontal"
+msgstr "horizontal"
+
+#: ../pbOptions.php:892
+msgid "vertical"
+msgstr "vertikal"
+
+#: ../pbOptions.php:901
+msgid "URL to pin"
+msgstr "URL die gepinnt werden soll"
+
+#: ../pbOptions.php:910
+msgid ""
+"Leave blank to use the permalink of each article (<strong>recommended</"
+"strong>) or type a specific url to pin"
+msgstr ""
+"Lass dieses Feld leer um automatisch die aktuelle URL einer Seite / Artikel "
+"zu piken (<strong>empfohlen</strong>) oder gib eine feste ein"
+
+#: ../pbOptions.php:916
+msgid "Pin Text to share"
+msgstr "Pin Text"
+
+#: ../pbOptions.php:940
+msgid "This is the default image for all pages without article images"
+msgstr ""
+"Dieses Bild wird als Standard-Bild für die Startseite und alle Seiten / "
+"Artikel ohne Artikelbilder verwendet"
+
+#: ../pbOptions.php:972
+msgid "upload"
+msgstr "upload"
+
+#: ../pbOptions.php:1070
+msgid ""
+"<p>In the general section you can change the basic configuration of "
+"pbSocialNetworks. Please Note: Before you activate pbSocialNetworks with the "
+"<code>Activate SocialNetworks</code> checkbox, <br /> you need to configure "
+"each Social Button, you find the different settings in the tabs Facebook, "
+"Twitter and Google+.</p><p><strong>Shortcodes:</strong><br />With "
+"pbSocialNetworks you get a helpful Shortcode to include Social Network "
+"Buttons in your Articles or Pages:<br />Use this Shortcode in your Articles "
+"or Pages: <code>[pbsn type=\"facebook\" url=\"http://www.pascal-bajorat.com/"
+"\"]</code><br />Values for <code>type:</code> facebook, twitter, googleplus "
+"or pinterest<br />Values for <code>url:</code> You don`t need to specify the "
+"url if you want use automatically the Article / Page Permalink or you can "
+"set a fixed url.<br />Use this PHP Code to run pbsn Shortcode in your Theme: "
+"<code>&lt;?php echo do_shortcode('[pbsn type=\"facebook\" url=\"http://www."
+"pascal-bajorat.com/\"]'); ?&gt;</code></p>"
+msgstr ""
+"<p>In dem allgemeinen Bereich kannst du die Basis-Konfiguration von "
+"pbSocialNetworks durchführen. Bevor du das Plugin aktivierst, solltest du "
+"alle Social Buttons über die einzelnen Tabs Facebook, Twitter and Google+ "
+"einstellen.</p><p><strong>Shortcodes:</strong><br />Mit pbSocialNetworks "
+"bekommst du eine einfache Möglichkeit an die Hand, Social Network Buttons "
+"mittels Shortcode in Artikel oder Seiten einzubinden:<br />Verwende "
+"folgenden Shortcode in Artikeln oder Seiten: <code>[pbsn type=\"facebook\" "
+"url=\"http://www.pascal-bajorat.com/\"]</code><br />Einträge für <code>type:"
+"</code> facebook, twitter, googleplus oder pinterest<br />Einträge für "
+"<code>url:</code> Dieses Feld kann komplett weggelassen werden, insofern "
+"automatisch der Permalink des Artikels / der Seite verwendet werden soll, "
+"alternativ kann eine feste URL eingetragen werden.<br />Du kannst folgenden "
+"PHP Code verwenden um den pbsn Shortcode in deinem Theme auszuführen: "
+"<code>&lt;?php echo do_shortcode('[pbsn type=\"facebook\" url=\"http://www."
+"pascal-bajorat.com/\"]'); ?&gt;</code></p>"
+
+#: ../pbOptions.php:1074
+msgid ""
+"<p>In this section you can configure the Facebook Like Button. If you enable "
+"or disable some features you need to adjust the width too.</p>"
+msgstr ""
+"<p>In diesem Bereich kannst du den Facebook gefällt mir Button ganz "
+"individuell konfigurieren oder ein- und ausschalten. Bitte prüfe die Weite, "
+"falls der Button auf deiner Seite nicht richtig angezeigt wird.</p>"
+
+#: ../pbOptions.php:1078
+msgid "<p>In this section you can configure the Twitter Button.</p>"
+msgstr ""
+"<p>In diesem Bereich kannst du deinen Twitter Button konfigurieren oder "
+"komplett deaktivieren, wenn du ihn nicht benötigst.</p>"
+
+#: ../pbOptions.php:1082
+msgid "<p>In this section you can configure the Google+ Button.</p>"
+msgstr ""
+"<p>In diesem Bereich kannst du deinen g+ Button konfigurieren oder komplett "
+"deaktivieren, wenn du ihn nicht benötigst.</p>"
+
+#: ../pbOptions.php:1086
+msgid ""
+"<p>In this section you can configure the Pin It Button. You can modify the "
+"submitted data to Pinterest with Open Graph e.g. Description and image to "
+"pin.</p>"
+msgstr ""
+"<p>In diesem Bereich kannst du den Pin it Button konfigurieren. Pinterest "
+"greift ebenfalls auf Open Graph Daten zurück.</p>"
+
+#: ../pbOptions.php:1090
+msgid ""
+"<p>In this section you can configure the Open Graph Protocol. Leave fields "
+"blank to hide them in the sourcecode. <strong>But it's important that you "
+"fill AppId or AdminId</strong></p>"
+msgstr ""
+"<p>In diesem Bereich kannst du die für das Open Graph Protocol relevanten "
+"Einstellungen vornehmen. Lass die entsprechenden Felder leer um sie im "
+"Quellcode zu verstecken. <strong>Es ist wichtig das zumindest die AppId oder "
+"AdminId eingetragen wird</strong></p>"
+
+#: ../pbOptions.php:1099
+msgid "General"
+msgstr "Allgemein"
+
+#: ../pbOptions.php:1100 ../pbSocialNetworks.php:150 ../pbStats.php:230
+#: ../pbStats.php:266
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../pbOptions.php:1101 ../pbSocialNetworks.php:151 ../pbStats.php:234
+#: ../pbStats.php:270
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../pbOptions.php:1102 ../pbSocialNetworks.php:152 ../pbStats.php:238
+#: ../pbStats.php:274
+msgid "Google+"
+msgstr "Google+"
+
+#: ../pbOptions.php:1103 ../pbSocialNetworks.php:153 ../pbStats.php:242
+#: ../pbStats.php:278
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../pbOptions.php:1104 ../pbSocialNetworks.php:154
+msgid "Open Graph"
+msgstr "Open Graph"
+
+#: ../pbOptions.php:1105 ../pbSocialNetworks.php:155
+msgid "Stats"
+msgstr "Statistiken"
+
+#: ../pbOptions.php:1106
+msgid "Support"
+msgstr "Support"
+
+#: ../pbOptions.php:1264
+msgid "pbSocialNetworks › Support"
+msgstr "pbSocialNetworks › Support"
+
+#: ../pbOptions.php:1265
+msgid "http://www.pascal-bajorat.com/en/pbsocialnetworks-support/"
+msgstr "http://www.pascal-bajorat.com/pbsocialnetworks-support/"
+
+#: ../pbSocialNetworks.php:149
+msgid "SocialNetworks"
+msgstr "SocialNetworks"
+
+#: ../pbSocialNetworks.php:150
+msgid "Facebook - pbSocialNetworks"
+msgstr "Facebook - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:151
+msgid "Twitter - pbSocialNetworks"
+msgstr "Twitter - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:152
+msgid "Google+ - pbSocialNetworks"
+msgstr "Google+ - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:153
+msgid "Pinterest - pbSocialNetworks"
+msgstr "Pinterest - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:154
+msgid "Open Graph - pbSocialNetworks"
+msgstr "Open Graph - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:155
+msgid "Stats - pbSocialNetworks"
+msgstr "Statistiken - pbSocialNetworks"
+
+#: ../pbSocialNetworks.php:322 ../pbSocialNetworks.php:328
+msgid "pbSocialNetworks OpenGraph"
+msgstr "pbSocialNetworks OpenGraph"
+
+#: ../pbSocialNetworks.php:345
+msgid "Type"
+msgstr "Typ"
+
+#: ../pbSocialNetworks.php:355 ../pbWidgets.php:245
+msgid "Title"
+msgstr "Titel"
+
+#: ../pbSocialNetworks.php:361
+msgid "Enter title only if you don't want to use the article / page title."
+msgstr ""
+"Gib hier nur dann einen festen Titel ein, wenn du nicht automatisch den des "
+"entsprechenden Artikels oder Seite verwenden möchtest."
+
+#: ../pbSocialNetworks.php:365
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../pbSocialNetworks.php:371
+msgid ""
+"Enter description only if you don't want to use the article / page excerpt."
+msgstr ""
+"Gib die Beschreibung nur dann manuell ein, wenn du nicht den automatischen "
+"Auszug von Artikeln oder Seiten verwenden möchtest."
+
+#: ../pbSocialNetworks.php:381
+msgid "Upload a preview image or leave blank to use the post thumbnail"
+msgstr ""
+"Lade ein Vorschaubild hoch, wenn du nicht das Artikelbild verwenden möchtest"
+
+#: ../pbSocialNetworks.php:574
+msgid "Hey, I miss some parameters here, try this example and replace me"
+msgstr ""
+"Hey, hier fehlen einige Parameter, versuche folgendes Beispiel und ersetze "
+"mich"
+
+#: ../pbStats.php:201
+msgid "pbSocialNetworks › Stats"
+msgstr "pbSocialNetworks › Statistiken"
+
+#: ../pbStats.php:202
+msgid ""
+"Here you can see your social network traffic statics. The statics are "
+"separated in two parts, the first part is an overview about all traffic you "
+"earned by Facebook, Twitter and Google+. The second part shows only the "
+"traffic you received directly by the social network buttons e.g. like or "
+"tweet but to track this statics you must use the pbSocialNetworks buttons or "
+"add <code>pbsn=facebook</code> / <code>pbsn=twitter</code> / "
+"<code>pbsn=googleplus</code> / <code>pbsn=pinterest</code> manually to your "
+"buttons. But it's easier to use the pbSocialNetworks buttons."
+msgstr ""
+"Hier findest du alle wichtigen Statistiken deines Social Network Traffics. "
+"Die Statistiken teilen sich in zwei Bereiche, der erste stellt eine "
+"Übersicht über den gesamten Social Network Traffic von Facebook, Twitter und "
+"Google+ dar. Der zweite Bereich zeigt den Traffic an, den du direkt über die "
+"Social Buttons z.B. gefällt mir oder Tweet erhalten hast. Die Statistiken "
+"für die Social Buttons werden nur dann erfasst, wenn du die Buttons aus "
+"diesem Plugin verwendest oder manuell an die URLs folgende Parameter "
+"übergibst: <code>pbsn=facebook</code> / <code>pbsn=twitter</code> / "
+"<code>pbsn=googleplus</code> / <code>pbsn=pinterest</code>. Es ist "
+"allerdings einfacher für dich die pbSocialNetworks Buttons zu verwenden."
+
+#: ../pbStats.php:206
+msgid "viewmode"
+msgstr "Anzeigemodus"
+
+#: ../pbStats.php:206
+msgid "week"
+msgstr "Woche"
+
+#: ../pbStats.php:206 ../pbStats.php:208
+msgid "month"
+msgstr "Monat"
+
+#: ../pbStats.php:206 ../pbStats.php:207
+msgid "year"
+msgstr "Jahr"
+
+#: ../pbStats.php:209
+msgid "day"
+msgstr "Tag"
+
+#: ../pbStats.php:210
+msgid "search"
+msgstr "suchen"
+
+#: ../pbStats.php:217
+msgid "Total Social Network Traffic"
+msgstr "Gesamter Social Network Traffic"
+
+#: ../pbStats.php:246 ../pbStats.php:282
+msgid "Total"
+msgstr "Gesamt"
+
+#: ../pbStats.php:253
+msgid "Social Button Traffic"
+msgstr "Social Button Traffic"
+
+#: ../pbStats.php:299
+msgid ""
+"Sorry, actually you don´t have any Statics in your database. Please activate "
+"the Statics in the General Tab to catch some data."
+msgstr ""
+"Sorry, aktuell sind keine Statistiken in deiner Datenbank vorhanden. "
+"Aktiviere das Statistik-System im Tab Allgemein um Daten zu sammeln."
+
+#: ../pbWidgets.php:9
+msgid ""
+"With this Widget you can display the Facebook Like Box in your Blog Sidebar."
+msgstr ""
+"Mit diesem Widget kannst du die Facebook Like Box in deiner Blog Sidebar "
+"anzeigen lassen."
+
+#: ../pbWidgets.php:10
+msgid "pbSN Facebook Like Box"
+msgstr "pbSN Facebook Like Box"
+
+#: ../pbWidgets.php:25
+msgid ""
+"If you need more informations about the Facebook Like Box or a preview visit "
+"<a href=\"https://developers.facebook.com/docs/reference/plugins/like-box/\" "
+"target=\"_blank\">this site</a>"
+msgstr ""
+"Wenn du weitere Informationen über die Facebook Like Box oder eine Vorschau "
+"benötigst besuche <a href=\"https://developers.facebook.com/docs/reference/"
+"plugins/like-box/\" target=\"_blank\">diese Seite</a>."
+
+#: ../pbWidgets.php:27
+msgid "Facebook Page URL"
+msgstr "Facebook Page URL"
+
+#: ../pbWidgets.php:30
+msgid "Width (default: 292)"
+msgstr "Weite (Standard: 292)"
+
+#: ../pbWidgets.php:33
+msgid "Height (default: 590)"
+msgstr "Höhe (Standard: 590)"
+
+#: ../pbWidgets.php:39 ../pbWidgets.php:89 ../pbWidgets.php:140
+msgid "Border Color (without #)"
+msgstr "Rahmen-Farbe (ohne #)"
+
+#: ../pbWidgets.php:43 ../pbWidgets.php:46 ../pbWidgets.php:49
+#: ../pbWidgets.php:96 ../pbWidgets.php:99 ../pbWidgets.php:147
+#: ../pbWidgets.php:192
+msgid "yes"
+msgstr "nein"
+
+#: ../pbWidgets.php:43 ../pbWidgets.php:46 ../pbWidgets.php:49
+#: ../pbWidgets.php:96 ../pbWidgets.php:99 ../pbWidgets.php:147
+#: ../pbWidgets.php:192
+msgid "no"
+msgstr "ja"
+
+#: ../pbWidgets.php:45
+msgid "Show Stream"
+msgstr "Stream anzeigen"
+
+#: ../pbWidgets.php:48 ../pbWidgets.php:95 ../pbWidgets.php:146
+msgid "Show Header"
+msgstr "Header anzeigen"
+
+#: ../pbWidgets.php:62
+msgid ""
+"With this Widget you can display the Facebook Activity Feed in your Blog "
+"Sidebar."
+msgstr ""
+"Mit diesem Widget kannst du den Facebook Activity Feed in deiner Blog "
+"sidebar anzeigen."
+
+#: ../pbWidgets.php:63
+msgid "pbSN Facebook Activity Feed"
+msgstr "pbSN Facebook Activity Feed"
+
+#: ../pbWidgets.php:78
+msgid ""
+"If you need more informations about the Facebook Activity Feed or a preview "
+"visit <a href=\"https://developers.facebook.com/docs/reference/plugins/"
+"activity/\" target=\"_blank\">this site</a>"
+msgstr ""
+"Wenn du weitere Informationen zum Facebook Activity Feed oder eine Vorschau "
+"benötigst, besuche <a href=\"https://developers.facebook.com/docs/reference/"
+"plugins/activity/\" target=\"_blank\">diese Seite</a>."
+
+#: ../pbWidgets.php:80 ../pbWidgets.php:131
+msgid "Domain"
+msgstr "Domain"
+
+#: ../pbWidgets.php:83 ../pbWidgets.php:134
+msgid "Width (default: 300)"
+msgstr "Weite (Standard: 300)"
+
+#: ../pbWidgets.php:86 ../pbWidgets.php:137
+msgid "Height (default: 300)"
+msgstr "Höhe (Standard: 300)"
+
+#: ../pbWidgets.php:98
+msgid "Recommendations"
+msgstr "Empfehlungen"
+
+#: ../pbWidgets.php:113
+msgid ""
+"With this Widget you can display the Facebook Recommendations Plugin in your "
+"Blog Sidebar."
+msgstr ""
+"Mit diesem Widget kannst du das Facebook Recommendations Plugin in deiner "
+"Blog Sidebar anzeigen."
+
+#: ../pbWidgets.php:114
+msgid "pbSN Facebook Recommendations"
+msgstr "pbSN Facebook Recommendations"
+
+#: ../pbWidgets.php:129
+msgid ""
+"If you need more informations about Facebook Recommendations or a preview "
+"visit <a href=\"https://developers.facebook.com/docs/reference/plugins/"
+"recommendations/\" target=\"_blank\">this site</a>"
+msgstr ""
+"Wenn du weitere Informationen zum Facebook Recommendations Plugin oder eine "
+"Vorschau benötigst, besuche <a href=\"https://developers.facebook.com/docs/"
+"reference/plugins/recommendations/\" target=\"_blank\">diese Seite</a>."
+
+#: ../pbWidgets.php:161
+msgid ""
+"With this Widget you can display a Facebook Subscribe Button in your Blog "
+"Sidebar."
+msgstr ""
+"Mit diesem Widget kannst du den Facebook Subscribe Button in deiner Blog "
+"Sidebar anzeigen."
+
+#: ../pbWidgets.php:162
+msgid "pbSN Subscribe Button"
+msgstr "pbSN Subscribe Button"
+
+#: ../pbWidgets.php:177
+msgid ""
+"If you need more informations about the Facebook Subscribe Button or a "
+"preview visit <a href=\"https://developers.facebook.com/docs/reference/"
+"plugins/subscribe/\" target=\"_blank\">this site</a>"
+msgstr ""
+"Wenn du weitere Informationen zum Facebook Subscribe Button oder eine "
+"Vorschau benötigst, besuche <a href=\"https://developers.facebook.com/docs/"
+"reference/plugins/subscribe/\" target=\"_blank\">diese Seite</a>."
+
+#: ../pbWidgets.php:179
+msgid "Profile URL"
+msgstr "Profil URL"
+
+#: ../pbWidgets.php:182
+msgid "Width (default: 450)"
+msgstr "Weite (Standard: 450)"
+
+#: ../pbWidgets.php:206
+msgid ""
+"With this Widget you can display an individual styled list of your last "
+"Tweets."
+msgstr ""
+"Mit diesem Widget kannst du eine letzten Tweets in der Blog Sidebar "
+"darstellen."
+
+#: ../pbWidgets.php:207
+msgid "pbSN Last Tweets"
+msgstr "pbSN Last Tweets"
+
+#: ../pbWidgets.php:243
+msgid ""
+"With this Widget you can display a list with your last Tweets. You can "
+"customize it via some parts of CSS."
+msgstr ""
+"Mit diesem Widget kannst du eine Liste deiner letzten Tweets in der Blog "
+"Sidebar darstellen. Die Darstellung der Tweets kann individuell über CSS "
+"gelöst werden."
+
+#: ../pbWidgets.php:248
+msgid "Twitter Account"
+msgstr "Twitter Account"
+
+#: ../pbWidgets.php:251
+msgid "Amount of shown Tweets"
+msgstr "Anzahl der Tweets"
+
+#~ msgid "Licence Key"
+#~ msgstr "Lizenz Schlüssel"
+
+#~ msgid ""
+#~ "Enter your Item Purchase Code, you will find it in your <a href=\"%1$s\" "
+#~ "target=\"_blank\">Licence Certificate</a>."
+#~ msgstr ""
+#~ "Bitte gib deinen Lizenz Schlüssel (Item Purchase Code) ein, du findest "
+#~ "ihn in deinem <a href=\"%1$s\" target=\"_blank\">Licence Certificate</a>."
+
+#~ msgid ""
+#~ "Please enter a valid Licence key / Item Purchase Code to receive further "
+#~ "updates of this Plugin!"
+#~ msgstr ""
+#~ "Bitte gib einen gültigen Lizenz Schlüssel / Item Purchase Code ein um "
+#~ "zukünftige Updates dieses Plugins zu erhalten!"
+
+#~ msgid "Support - pbSocialNetworks"
+#~ msgstr "Support - pbSocialNetworks"

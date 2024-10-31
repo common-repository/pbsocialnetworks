@@ -1,0 +1,5 @@
+.pbSocialNetworks:before, .pbSocialNetworks:after { content: ""; display: table; }
+.pbSocialNetworks:after { clear: both; }
+.pbSocialNetworks { zoom: 1; clear: both; padding: 10px 0; }
+
+.pbSocialNetworks .pbFacebook, .pbSocialNetworks .pbTwitter, .pbSocialNetworks .pbPinterest, .pbSocialNetworks .pbGplusone { display: inline-block; float: left; padding-right: 10px; }
